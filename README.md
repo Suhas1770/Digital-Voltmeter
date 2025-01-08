@@ -2,7 +2,7 @@
 #include <Adafruit_ADS1X15.h>
 #include <hd44780.h> // Main hd44780 header
 #include <hd44780ioClass/hd44780_I2Cexp.h> // I2C expander I/O class header
-
+ 
 
 // Initialize the LCD and ADS1115 objects
 hd44780_I2Cexp lcd; // Automatic configuration for I2C
